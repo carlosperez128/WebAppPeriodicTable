@@ -41,6 +41,8 @@ public class ClienteWSPeriodicTable {
             }
         }   
     }
+    
+    
     private static String Menu() throws IOException{
         System.out.println("---------------------Menu-------------------------------");       
         System.out.println("Ponga un número del 1 al 4 con las siguientes opciones: ");
